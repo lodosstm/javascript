@@ -2,7 +2,7 @@
 
 *A mostly reasonable approach to JavaScript*
 
-[![Downloads](https://img.shields.io/npm/dm/eslint-config-airbnb.svg)](https://www.npmjs.com/package/eslint-config-airbnb)
+[![Downloads](http://3.bp.blogspot.com/-0DJdo4CaFh4/T_F0IgdPBuI/AAAAAAAAAA4/7d3t2EhfOyI/s1600/Download.png)](https://www.npmjs.com/package/eslint-config-airbnb)
 [![Downloads](https://img.shields.io/npm/dm/eslint-config-airbnb-base.svg)](https://www.npmjs.com/package/eslint-config-airbnb-base)
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/airbnb/javascript?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
